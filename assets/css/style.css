@@ -1,0 +1,63 @@
+body {
+	background-image: url("https://i.imgur.com/N3qq82f.jpg");
+	background-size: 1440px; 
+	margin: 0;
+}
+
+h1 {
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 35px;
+	font-weight: bold;
+    color: #cccccc;
+    margin-top: 6%;
+    margin-left: 300px;
+}
+
+h3{
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 20px;
+	font-weight: bold;
+    color: lightgrey;
+    margin-left: 350px;
+    padding: 4% 3% 2% 3%;	
+}
+
+.Main_box {	
+	float: left;
+	width: 650px;
+	border: 2px dashed #cccccc;
+	margin: 6% 2% 8% 0;
+	margin-left: 200px;
+	clear: both;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#hangpic {
+	float : left;
+	margin: 6% 3% 0 3%;
+    width: 275px;
+    height: auto;
+}
+
+.Text_box {
+	float : right;
+	font-family: 'Courier New', Courier, monospace;
+	color: black;
+	font-size: 17px;
+	font-weight: bold;
+	padding: 2% 3% 2% 3%;
+	text-align: center;
+	border-left: 2px dashed #cccccc;
+	line-height: 200%;
+}
+
+/* [0]adele
+https://i.imgur.com/E6hSTeG.jpg
+
+[1]alicia keys
+https://i.imgur.com/Jn6ut1i.jpg
+  	  	 
+[2]Janet Jackson
+https://i.imgur.com/nXdNKv6.jpg
+
